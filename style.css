@@ -132,6 +132,8 @@ body
     display: block;
     min-width: 55px;
     height: 55px;
+    top: 50%;
+    padding:12px;
     line-height: 55px;
     transition: 0.5s;
     border-radius: 10px;
